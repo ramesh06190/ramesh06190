@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Full Stack Web Developement
 - 🤔 I’m looking for help with Algorithms
 - 💬 Ask me about Java
-- 😄 Pronouns: Would like to tell about them some day 😄
+- 😄 Pronouns: Would like to tell about them some other day 😄
 - ⚡ Fun fact: Roses are Yellow
 
