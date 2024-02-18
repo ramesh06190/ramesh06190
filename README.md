@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Frontend Technologies
 - 👯 I’m looking to collaborate on Full Stack Web Developement
 - 🤔 I’m looking for help with Algorithms
-- 💬 Ask me about Java
+- 💬 Ask me about .Net & Java
 - 😄 Pronouns: Would like to tell about them some other day 😄
 - ⚡ Fun fact: Roses are Yellow
 
