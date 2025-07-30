@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on HTML & CSS, Core Java and DBMS.
+- 🔭 I’m currently working on HTML & CSS, .Net and DBMS.
 - 🌱 I’m currently learning Frontend Technologies
 - 👯 I’m looking to collaborate on Full Stack Web Developement
 - 🤔 I’m looking for help with Algorithms
